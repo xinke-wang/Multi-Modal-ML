@@ -6,7 +6,8 @@ This repo would be occasionally but continuously updated, which would collect pa
 
 | Year | Venue | Paper | Modalities | Project/Code |
 |------|-------|-------|------------|--------------|
-|2019|Nature|[Learning the signatures of the human grasp using a scalable tactile glove](https://www.nature.com/articles/s41586-019-1234-z) |Touch|[Project](http://stag.csail.mit.edu/)/[Code](https://github.com/Erkil1452/touch) |
+|2019|CVPR|[Connecting Touch and Vision via Cross-Modal Prediction](https://arxiv.org/pdf/1906.06322.pdf) |Vision+Touch|[Project](http://stag.csail.mit.edu/)/[Code](https://github.com/Erkil1452/touch) |
+|2019|Nature|[Learning the signatures of the human grasp using a scalable tactile glove](https://www.nature.com/articles/s41586-019-1234-z) |Touch|[Project](http://visgel.csail.mit.edu/)/[Code](https://github.com/YunzhuLi/VisGel) |
 | 2019 |IJCV| [Learning Sight from Sound:Ambient Sound Provides Supervision for Visual Learning](https://arxiv.org/pdf/1712.07271.pdf)|Vision+Sound|-|
 | 2016 |ECCV|[Ambient Sound Provides Supervisionfor Visual Learning](https://arxiv.org/pdf/1608.07017.pdf) |Vision+Sound|-|
 |2016|CVPR| [Visually Indicated Sounds](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Owens_Visually_Indicated_Sounds_CVPR_2016_paper.pdf) | Vision+Sound | [Project](http://andrewowens.com/vis/index.html) |
