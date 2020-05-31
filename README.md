@@ -26,6 +26,15 @@ This repo would be occasionally but continuously updated, which would collect pa
 |2019|CVPRW|[WiFi and Vision Multimodal Learning for Accurate and Robust Device-Free Human Activity Recognition](http://openaccess.thecvf.com/content_CVPRW_2019/html/MULA/Zou_WiFi_and_Vision_Multimodal_Learning_for_Accurate_and_Robust_Device-Free_CVPRW_2019_paper.html)|Recognition|Vision|WiFi|
 
 
+## Datasets
+*This part lists some huge datasets that include multi-modal annotations*
+
+| Year | Dataset | Modalities | Project | Paper |
+|------|---------|------------|---------|-------|
+|2020|VGG-Sound|Vision+Sound|[Project](http://www.robots.ox.ac.uk/~vgg/data/vggsound/)|[ICASSP](https://www.robots.ox.ac.uk/~vgg/publications/2020/Chen20/chen20.pdf)|
+|2016|Cross-Modal Places|Vision+Language|[Project](http://projects.csail.mit.edu/cmplaces/)|[CVPR](http://cmplaces.csail.mit.edu/content/paper.pdf) & [T-PAMI](http://cmplaces.csail.mit.edu/content/paper_pami.pdf)|
+
+
 ## Tutorial/Workshop/Survey
 *This part lists some extra resources about Multi-modal Machine Learning*
 
@@ -37,7 +46,7 @@ This repo would be occasionally but continuously updated, which would collect pa
 **Workshops**
 | Year | Venue | Title | Proceedings |
 |------|-------|-------| ----------- |
-|2020|CVPR|[Workshop on Multimodal Learning](https://mul-workshop.github.io/)| |
+|2020|CVPR|[Workshop on Multimodal Learning](https://mul-workshop.github.io/)|Proceedings|
 |2019|ICCV|[Cross-Modal Learning in Real World](https://cromol.github.io/)|[Proceedings](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_CROMOL.py)|
 |2019|CVPR|[2nd Multimodal Learning and Applications Workshop (MULA)](https://mula-workshop.github.io/)|[Proceedings](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_MULA.py)|
 |2018|ECCV|[1st Multimodal Learning and Applications Workshop (MULA)](https://mula2018.github.io/)|[Proceedings](http://openaccess.thecvf.com/ECCV2018_workshops/ECCV2018_W35.py)|
@@ -54,7 +63,7 @@ This repo would be occasionally but continuously updated, which would collect pa
 |------|-------------|--------------------| -------------- |
 |[Antonio Torralba](http://web.mit.edu/torralba/www/) |MIT|Vision+Audition+Touch|[Scholar](https://scholar.google.com/citations?user=8cxDHS4AAAAJ) |
 |[Andrew Zisserman](https://www.robots.ox.ac.uk/~az/)|Oxford|Vision+Audio|[Scholar](https://scholar.google.co.uk/citations?user=UZ5wscMAAAAJ)|
-|      |             |                    | |
+|[Andrea Vedaldi](http://www.robots.ox.ac.uk/~vedaldi/)|Oxford|Vision+Audio|[Scholar](https://scholar.google.com.au/citations?user=bRT7t28AAAAJ)|
 
 ## Contact
 If you are also interested in Multi-Modal Machine Learning, and would like to recommend some papers/projects to this repo, feel free to open an issue or make a pull request.
