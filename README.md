@@ -38,7 +38,7 @@ This repo would be occasionally but continuously updated, which would collect pa
 |2020|CVPR|[Workshop on Multimodal Learning](https://mul-workshop.github.io/)| |
 |2019|ICCV|[Cross-Modal Learning in Real World](https://cromol.github.io/)|[Proceedings](http://openaccess.thecvf.com/ICCV2019_workshops/ICCV2019_CROMOL.py)|
 |2019|CVPR|[2nd Multimodal Learning and Applications Workshop (MULA)](https://mula-workshop.github.io/)|[Proceedings](http://openaccess.thecvf.com/CVPR2019_workshops/CVPR2019_MULA.py)|
-|2018|ECCV|[1st Multimodal Learning and Applications Workshop (MULA)](https://mula2018.github.io/)|[Proceedubgs](http://openaccess.thecvf.com/ECCV2018_workshops/ECCV2018_W35.py)|
+|2018|ECCV|[1st Multimodal Learning and Applications Workshop (MULA)](https://mula2018.github.io/)|[Proceedings](http://openaccess.thecvf.com/ECCV2018_workshops/ECCV2018_W35.py)|
 
 **Tutorials**
 | Year | Venue | Title |
