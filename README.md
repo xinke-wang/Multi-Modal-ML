@@ -6,6 +6,7 @@ This repo would be occasionally but continuously updated, which would collect pa
 
 | Year | Venue | Paper | Modalities | Project/Code |
 |------|-------|-------|------------|--------------|
+|2020|ECCV|[Multiple Sound Sources Localization fromCoarse to Fine](https://arxiv.org/pdf/2007.06355.pdf) |Vision+Sound|-|
 |2020|CVPR|[Music Gesture for Visual Sound Separation](https://arxiv.org/pdf/2004.09476.pdf) |Vision+Sound|[Project](http://music-gesture.csail.mit.edu/)|
 |2020|ICASSP|[Sight to Sound: An End-to-end Approach for Visual Piano Transcription](http://www.robots.ox.ac.uk/~vgg/publications/2020/Koepke20/koepke20.pdf)|Vision+Sound|[Project](https://www.robots.ox.ac.uk/~vgg/research/sighttosound/)|
 |2019|CVPR|[Connecting Touch and Vision via Cross-Modal Prediction](https://arxiv.org/pdf/1906.06322.pdf) |Vision+Touch|[Project](http://stag.csail.mit.edu/)/[Code](https://github.com/Erkil1452/touch) |
