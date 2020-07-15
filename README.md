@@ -23,6 +23,7 @@ This repo would be occasionally but continuously updated, which would collect pa
 
 | Year | Venue | Paper | Task | Basic | New |
 |------|-------|-------|------|-------------|-----------|
+|2020|ECCV|[Not only Look, but also Listen: LearningMultimodal Violence Detection under WeakSupervision](https://arxiv.org/pdf/2007.04687.pdf)|Detection|Vision|Sound|
 |2019|ICCV|[Self-Supervised Moving Vehicle Tracking With Stereo Sound](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gan_Self-Supervised_Moving_Vehicle_Tracking_With_Stereo_Sound_ICCV_2019_paper.pdf)|Tracking|Vision|Sound|
 |2019|ICCVW|[DECCNet: Depth Enhanced Crowd Counting](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CROMOL/Yang_DECCNet_Depth_Enhanced_Crowd_Counting_ICCVW_2019_paper.pdf)|Counting|Vision|Depth|
 |2019|CVPRW|[WiFi and Vision Multimodal Learning for Accurate and Robust Device-Free Human Activity Recognition](http://openaccess.thecvf.com/content_CVPRW_2019/html/MULA/Zou_WiFi_and_Vision_Multimodal_Learning_for_Accurate_and_Robust_Device-Free_CVPRW_2019_paper.html)|Recognition|Vision|WiFi|
